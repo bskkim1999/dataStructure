@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/program_exe_file.dir/ListMain.c.o -o program_exe_file  libdataListLibrary.a 
