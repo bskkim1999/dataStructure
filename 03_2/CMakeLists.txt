@@ -12,13 +12,11 @@ project(
 # 모든 C 소스 파일을 찾기
 file(GLOB SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/Source/*.c")
 
-#라이브러리 추가
+#라이브러리 만듦
 add_library(dataListLibrary STATIC ${SOURCES})  
 
 #실행파일로 만듦
-add_executable(program_exe_file ${CMAKE_CURRENT_SOURCE_DIR}/ListMain.c)
-
-
+add_executable(program_exe_file ${CMAKE_CURRENT_SOURCE_DIR}/NameCardListMain.c)
 
 #include 디렉토리를 포함함
 target_include_directories(dataListLibrary PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
