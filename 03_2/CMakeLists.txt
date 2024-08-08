@@ -18,9 +18,16 @@ add_library(dataListLibrary STATIC ${SOURCES})
 #실행파일로 만듦
 add_executable(program_exe_file ${CMAKE_CURRENT_SOURCE_DIR}/NameCardListMain.c)
 
+#모든 헤더파일 찾기
+#file(GLOB HEADERS "${CMAKE_CURRENT_SOURCE_DIR}/include/*.h")
+
+
 #include 디렉토리를 포함함
 target_include_directories(dataListLibrary PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 target_include_directories(program_exe_file PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+
+#target_include_directories(dataListLibrary PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include/HEADERS)
+#target_include_directories(program_exe_file PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include/HEADERS)
 
 # 라이브러리와 실행 파일 연결
 target_link_libraries(program_exe_file PRIVATE dataListLibrary)

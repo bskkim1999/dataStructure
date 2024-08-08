@@ -1,3 +1,6 @@
+#ifndef NAMECARD_H
+#define NAMECARD_H
+
 #define NAME_LEN 30
 #define PHONE_LEN 30
 
@@ -18,3 +21,5 @@ int NameCompare(NameCard* pcard, char* name);
 
 //전화번호 정보를 변경
 void ChangePhoneNum(NameCard* pcard, char*phone);
+
+#endif
