@@ -20,6 +20,8 @@ int main(void){
         printf("자연수 입력:");
         scanf("%d", &readData);
 
+        if(readData < 1) break;
+
         //노드의 추가과정//
         newNode = (Node*) malloc(sizeof(Node));
         newNode->data = readData;
@@ -34,7 +36,7 @@ int main(void){
         tail=newNode;
     }
 
-    printf("\n\n");
+    printf("================\n\n");
 
     //입력 받은 데이터의 출력과정//
     printf("입력 받은 데이터의 전체출력 \n");
@@ -52,7 +54,7 @@ int main(void){
         }
     }
 
-    printf("\n\n");
+    printf("\n=====\n");
 
     //메모리의 해제과정//
     if(head == NULL){
@@ -73,13 +75,6 @@ int main(void){
             free(delNode);
         }
     }
-
-
-
-
-
-
-
 
 
     return 0;
