@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.o"
-  "CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.o.d"
-  "CMakeFiles/dataListLibrary.dir/Source/NameCard.c.o"
-  "CMakeFiles/dataListLibrary.dir/Source/NameCard.c.o.d"
+  "CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.obj"
+  "CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.obj.d"
+  "CMakeFiles/dataListLibrary.dir/Source/NameCard.c.obj"
+  "CMakeFiles/dataListLibrary.dir/Source/NameCard.c.obj.d"
   "libdataListLibrary.a"
   "libdataListLibrary.pdb"
 )

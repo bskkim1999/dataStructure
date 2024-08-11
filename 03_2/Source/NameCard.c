@@ -19,8 +19,8 @@ NameCard* MakeNameCard(char* name, char* phone){
 
 //NameCard 구조체 변수의 정보 출력//
 void ShowNameCardInfo(NameCard* pcard){
-    printf("이름 : %s \n", pcard->name);
-    printf("번호 : %s \n", pcard->phone);
+    printf("Name : %s \n", pcard->name);
+    printf("PhoneNumber : %s \n", pcard->phone);
 }
 
 //이름이 같으면 0, 다르면 0이 아닌 값 반환//

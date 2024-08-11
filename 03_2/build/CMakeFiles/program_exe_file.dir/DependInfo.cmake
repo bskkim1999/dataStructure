@@ -8,12 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/dx/dataStructure/03_2/NameCardListMain.c" "CMakeFiles/program_exe_file.dir/NameCardListMain.c.o" "gcc" "CMakeFiles/program_exe_file.dir/NameCardListMain.c.o.d"
+  "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/NameCardListMain.c" "CMakeFiles/program_exe_file.dir/NameCardListMain.c.obj" "gcc" "CMakeFiles/program_exe_file.dir/NameCardListMain.c.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/dx/dataStructure/03_2/build/CMakeFiles/dataListLibrary.dir/DependInfo.cmake"
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

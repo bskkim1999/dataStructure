@@ -1,2 +1,2 @@
-/usr/bin/ar qc libdataListLibrary.a CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.o CMakeFiles/dataListLibrary.dir/Source/NameCard.c.o
-/usr/bin/ranlib libdataListLibrary.a
+C:\msys64\ucrt64\bin\ar.exe qc libdataListLibrary.a CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.obj CMakeFiles/dataListLibrary.dir/Source/NameCard.c.obj
+C:\msys64\ucrt64\bin\ranlib.exe libdataListLibrary.a

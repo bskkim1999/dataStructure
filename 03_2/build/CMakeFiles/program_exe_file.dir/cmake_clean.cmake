@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/program_exe_file.dir/NameCardListMain.c.o"
-  "CMakeFiles/program_exe_file.dir/NameCardListMain.c.o.d"
-  "program_exe_file"
+  "CMakeFiles/program_exe_file.dir/NameCardListMain.c.obj"
+  "CMakeFiles/program_exe_file.dir/NameCardListMain.c.obj.d"
+  "libprogram_exe_file.dll.a"
+  "program_exe_file.exe"
+  "program_exe_file.exe.manifest"
   "program_exe_file.pdb"
 )
 

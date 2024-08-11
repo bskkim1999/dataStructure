@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe  @CMakeFiles/dataListLibrary.dir/includes_C.rsp -g -o CMakeFiles\\dataListLibrary.dir\\Source\\ArrayList.c.obj -c C:\\Users\\step\\Desktop\\TEST_folder\\dataStructure\\03_2\\Source\\ArrayList.c",
+  "file": "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/Source/ArrayList.c",
+  "output": "CMakeFiles/dataListLibrary.dir/Source/ArrayList.c.obj"
+},
+{
+  "directory": "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe  @CMakeFiles/dataListLibrary.dir/includes_C.rsp -g -o CMakeFiles\\dataListLibrary.dir\\Source\\NameCard.c.obj -c C:\\Users\\step\\Desktop\\TEST_folder\\dataStructure\\03_2\\Source\\NameCard.c",
+  "file": "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/Source/NameCard.c",
+  "output": "CMakeFiles/dataListLibrary.dir/Source/NameCard.c.obj"
+},
+{
+  "directory": "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe  @CMakeFiles/program_exe_file.dir/includes_C.rsp -g -o CMakeFiles\\program_exe_file.dir\\NameCardListMain.c.obj -c C:\\Users\\step\\Desktop\\TEST_folder\\dataStructure\\03_2\\NameCardListMain.c",
+  "file": "C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/NameCardListMain.c",
+  "output": "CMakeFiles/program_exe_file.dir/NameCardListMain.c.obj"
+}
+]

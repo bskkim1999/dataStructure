@@ -1,4 +1,4 @@
-/home/dx/dataStructure/03_2/build/CMakeFiles/dataListLibrary.dir
-/home/dx/dataStructure/03_2/build/CMakeFiles/program_exe_file.dir
-/home/dx/dataStructure/03_2/build/CMakeFiles/edit_cache.dir
-/home/dx/dataStructure/03_2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build/CMakeFiles/dataListLibrary.dir
+C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build/CMakeFiles/program_exe_file.dir
+C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build/CMakeFiles/edit_cache.dir
+C:/Users/step/Desktop/TEST_folder/dataStructure/03_2/build/CMakeFiles/rebuild_cache.dir
