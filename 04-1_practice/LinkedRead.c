@@ -17,7 +17,7 @@ int main(void){
 
     //데이터를 입력 받는 과정//
     while(1){
-        printf("자연수 입력:");
+        printf("natural number input : ");
         scanf("%d", &readData);
 
         if(readData < 1) break;
@@ -39,10 +39,10 @@ int main(void){
     printf("================\n\n");
 
     //입력 받은 데이터의 출력과정//
-    printf("입력 받은 데이터의 전체출력 \n");
+    printf("Total output of input data. \n");
 
     if(head==NULL){
-        printf("저장된 자연수가 존재하지 않는다. \n");
+        printf("therer are not any naturl numbers. \n");
     }
     else{
         cur = head;
@@ -64,14 +64,14 @@ int main(void){
         Node* delNode = head;
         Node* delNextNode = head->next;
 
-        printf("%d을 삭제합니다. \n", head->data);
+        printf("%d is deleted. \n", head->data);
         free(delNode);
 
         while(delNextNode != NULL){
             delNode = delNextNode;
             delNextNode = delNextNode->next;
 
-            printf("%d을 삭제합니다. \n", delNode->data);
+            printf("%d is deleted. \n", delNode->data);
             free(delNode);
         }
     }
