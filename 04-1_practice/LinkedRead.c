@@ -29,11 +29,14 @@ int main(void){
 
         if(head==NULL){
             head = newNode;
+            tail = newNode;
         }
         else{
-            tail->next = newNode;
+            //head->next = newNode;
+            newNode->next = head;
+            head=newNode;
         }
-        tail=newNode;
+        
     }
 
     printf("================\n\n");
