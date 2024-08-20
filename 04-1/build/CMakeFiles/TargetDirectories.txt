@@ -1,3 +1,0 @@
-C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build/CMakeFiles/program_exe_file.dir
-C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build/CMakeFiles/edit_cache.dir
-C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build/CMakeFiles/rebuild_cache.dir

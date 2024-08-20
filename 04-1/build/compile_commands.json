@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe   -g -o CMakeFiles\\program_exe_file.dir\\LinkedRead.c.obj -c C:\\Users\\step\\Desktop\\TEST_folder\\dataStructure\\04-1\\LinkedRead.c",
-  "file": "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/LinkedRead.c",
-  "output": "CMakeFiles/program_exe_file.dir/LinkedRead.c.obj"
-}
-]
