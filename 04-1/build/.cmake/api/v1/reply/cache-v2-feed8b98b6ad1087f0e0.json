@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/step/Desktop/TEST_folder/dataStructure/04-1_practice/build"
+			"value" : "c:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1_practice/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1_practice"
+			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1223,7 +1223,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1_practice/build"
+			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/build"
 		},
 		{
 			"name" : "dataStructure_test_IS_TOP_LEVEL",
@@ -1247,7 +1247,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1_practice"
+			"value" : "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1"
 		}
 	],
 	"kind" : "cache",

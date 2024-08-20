@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1_practice/LinkedRead.c" "CMakeFiles/program_exe_file.dir/LinkedRead.c.obj" "gcc" "CMakeFiles/program_exe_file.dir/LinkedRead.c.obj.d"
+  "C:/Users/step/Desktop/TEST_folder/dataStructure/04-1/LinkedRead.c" "CMakeFiles/program_exe_file.dir/LinkedRead.c.obj" "gcc" "CMakeFiles/program_exe_file.dir/LinkedRead.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
