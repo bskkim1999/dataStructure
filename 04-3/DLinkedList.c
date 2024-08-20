@@ -29,7 +29,7 @@ void SInsert(List* plist, LData data){
 
 void LInsert(List* plist, LData data){
     if(plist->comp == NULL){
-        //FInsert(plist, data);
+        FInsert(plist, data);
     }
     else{
         //SInsert(plist, data);
