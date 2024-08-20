@@ -29,7 +29,7 @@ int main(void)
 	LInsert(&list, ppos);
 
 	// 저장된 데이터의 출력 ///////////
-	printf("현재 데이터의 수: %d \n", LCount(&list));
+	printf("number of datas: %d \n", LCount(&list));
 
 	if(LFirst(&list, &ppos))
 	{
@@ -63,7 +63,7 @@ int main(void)
 	}
 
 	// 삭제 후 남은 데이터 전체 출력  ///////////
-	printf("현재 데이터의 수: %d \n", LCount(&list));
+	printf("number of data (now) : %d \n", LCount(&list));
 
 	if(LFirst(&list, &ppos))
 	{
